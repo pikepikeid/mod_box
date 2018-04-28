@@ -11,3 +11,5 @@ pngとblendは入れなくていいよ。
 
 ## テクスチャが木箱なんだが
 がんばってなんとかして。
+
+![作例](https://github.com/pikepikeid/mod_box/blob/master/sample.jpeg)
